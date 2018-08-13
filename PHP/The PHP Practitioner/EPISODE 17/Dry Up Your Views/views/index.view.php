@@ -1,4 +1,4 @@
-<?php require_once ABSPATH . 'views/partials/header.php';?>
+<?php require_once ABSPATH . '/views/partials/header.php';?>
 <?php
 /** @var Task[] $tasks */
 ?>
@@ -14,4 +14,4 @@
 		<?php endforeach; ?>
     </ul>
 </div>
-<?php require_once ABSPATH . 'views/partials/footer.php';?>
+<?php require_once ABSPATH . '/views/partials/footer.php';?>
