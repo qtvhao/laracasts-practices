@@ -5,7 +5,7 @@
 <header>Todo list</header>
 <div>
     <form action="index.php?path=tasks/store" method="post">
-        <input type="text" title="" name="">
+        <input type="text" title="" name="name">
     </form>
 </div>
 <div>
